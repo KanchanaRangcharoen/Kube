@@ -13,6 +13,7 @@
   - Select Path Click Edit
   - Click New
   - Add path kubectl.exe
+  
     ![Screenshot 2023-03-14 162035](https://user-images.githubusercontent.com/119097660/224956110-acbca127-787d-4ef8-88fd-05818c00a0c6.png)
   - Click Ok
 
@@ -37,6 +38,7 @@
   - Select Path Click Edit
   - Click New
   - Add path minikube.exe
+  
     ![Screenshot 2023-03-14 162035](https://user-images.githubusercontent.com/119097660/224956110-acbca127-787d-4ef8-88fd-05818c00a0c6.png)
   - Click Ok
 </details>
