@@ -2,7 +2,7 @@
 <details>
 <summary>Install kubectl</summary>
 
- ### Ref https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
+### Ref https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
 - Download kubectl , use this command
     ```
     curl.exe -LO "https://dl.k8s.io/release/v1.26.0/bin/windows/amd64/kubectl.exe"
@@ -25,6 +25,7 @@
 <details>
 <summary>Install minikube</summary>
 
+### Ref https://minikube.sigs.k8s.io/docs/start/
 - Download minikube via PowerShell
     ```
     New-Item -Path 'c:\' -Name 'minikube' -ItemType Directory -Force
