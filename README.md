@@ -65,10 +65,15 @@
 ![Screenshot 2023-03-19 135401](https://user-images.githubusercontent.com/119097660/226159166-fa69742d-3774-47df-a6b1-e09498196f2c.png)
 
 - Start a cluster using the docker driver
-   ```
+  ```
   minikube start --driver=docker
-   ```
+  ```
   ![Screenshot 2023-03-19 135752](https://user-images.githubusercontent.com/119097660/226159356-cd398051-9e50-4435-8f53-843353f96748.png)
+
+- Running the minikube dashboard
+  ```
+  minikube dashboard
+  ```
 </details>
 
 ## Deploy traefik
@@ -210,7 +215,7 @@
   ```
   </details>
 
-- Create service.yaml 
+- Create service.yaml # old name is kube.yaml
   
   <details>
   <summary>SHOW CODE service.yaml</summary>
