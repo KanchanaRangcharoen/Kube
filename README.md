@@ -153,7 +153,8 @@
   >**_WARNING :_** you must run minikube dashboard for get cluster dashboard and minikube tunnel for route to services 
   
   **Link on local :** https://traefik.spcn08.local/dashboard/#/
-  ![Screenshot 2023-03-19 133906](https://user-images.githubusercontent.com/119097660/226160796-46fb4998-f137-482a-8c7a-ebc6416755f0.png)
+  ![Screenshot 2023-03-19 133906](https://user-images.githubusercontent.com/119097660/226160796-46fb4998-f137-482a-8c7a-ebc6416755f0.png) 
+  ![Screenshot 2023-03-19 152347](https://user-images.githubusercontent.com/119097660/226162764-0239acaf-1f3d-44d9-939d-368af40ea845.png)
 
 ## Deploy rancher/hello-world
 
